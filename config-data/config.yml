@@ -1,9 +1,2 @@
 server:
-port: 8099
-
-
-
-
-spring:
-application:
-name: mvc
+port: 8082
